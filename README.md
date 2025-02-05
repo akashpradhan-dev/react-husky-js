@@ -16,7 +16,7 @@ This project is a React application setup with ESLint, Prettier, and Husky for l
 Clone the repository to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/akashpradhan-dev/react-husky-js.git
 cd react-husky-js
 ```
 
